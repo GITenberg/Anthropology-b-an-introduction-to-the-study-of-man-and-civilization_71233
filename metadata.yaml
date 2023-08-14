@@ -1,0 +1,38 @@
+_repo: Anthropology-b-an-introduction-to-the-study-of-man-and-civilization_71233
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Tylor, Edward B. (Edward Burnett)
+    aliases:
+    - Tylor, Edward Burnett
+    - Tylor, E. B. (Edward Burnett)
+    birthdate: 1832
+    deathdate: 1917
+    gutenberg_agent_id: '4841'
+    url: http://www.gutenberg.org/2009/agents/4841
+    wikipedia: https://en.wikipedia.org/wiki/Edward_Burnett_Tylor
+description: ''
+gutenberg_issued: '2023-07-20'
+identifiers:
+  gutenberg: '71233'
+  lccn: '35036429'
+language: en
+pgterms:marc904: https://archive.org/details/anthropologyintr00tylouoft
+pgterms:marc905: 20200810095058tylor
+pgterms:marc906: '1881'
+pgterms:marc907: GB
+production_note: Tim Lindell, Turgut Dincer and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/Canadian Libraries)
+publication_note: '  $aUnited Kingdom :$bMacmillan and co., $c1881.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Macmillan's manuals for students.
+subjects:
+- !lcsh 'Anthropology'
+- !lcsh 'Civilization'
+- !lcc 'GN'
+- GITenberg
+title: 'Anthropology : $b an introduction to the study of man and civilization'
+url: http://www.gutenberg.org/ebooks/71233

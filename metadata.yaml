@@ -1,5 +1,8 @@
 _repo: Anthropology-b-an-introduction-to-the-study-of-man-and-civilization_71233
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71233-h/images/cover.jpg
 creator:
   author:
     agent_name: Tylor, Edward B. (Edward Burnett)
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4841
     wikipedia: https://en.wikipedia.org/wiki/Edward_Burnett_Tylor
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71233#Anthropology-b-an-introduction-to-the-study-of-man-and-civilization
 gutenberg_issued: '2023-07-20'
 identifiers:
   gutenberg: '71233'
